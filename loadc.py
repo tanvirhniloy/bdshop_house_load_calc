@@ -111,7 +111,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Title
-st.markdown("<div class='main-title'>⚡ Home Load Calculator</div>", unsafe_allow_html=True)
+st.markdown("<div class='main-title'>⚡ BDSHOP Home Load Calculator</div>", unsafe_allow_html=True)
 
 # Header
 col1, col2, col3, col4 = st.columns([4, 2, 3, 1])
